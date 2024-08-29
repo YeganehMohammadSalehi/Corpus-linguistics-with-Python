@@ -46,7 +46,7 @@ This Python module analyzes text corpora within a specified directory. It perfor
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/corpus-linguistics-python.git
+   git clone https://github.com/YeganehMohammadSalehi/Corpus-linguistics-with-Python
    ```
 
 2. **Navigate to the Project Directory:**
