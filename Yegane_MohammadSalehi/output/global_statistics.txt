@@ -1,0 +1,4 @@
+num_documents: 1
+total_lines: 7
+total_tokens: 435
+unique_tokens: 219
